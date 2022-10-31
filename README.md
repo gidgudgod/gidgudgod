@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gidgudgod
 - 👀 I’m interested in Gaming, Movie, and Japanese
-- 🌱 I’m currently learning Web Development
+- 🌱 I’m currently learning Web Development and 日本語
 - 💞️ I’m looking to collaborate on Content Creating about Mobile Legends game
 - 📫 How to reach me:
       > Instagram: gideon_ks
