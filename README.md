@@ -17,8 +17,6 @@
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/gideon_ks)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:kurniawangideon@gmail.com)
 
----
-⭐ From [gidgudgod](https://github.com/gidgudgod)
 <!---
 gidgudgod/gidgudgod is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
