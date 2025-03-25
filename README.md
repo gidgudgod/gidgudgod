@@ -6,7 +6,7 @@
       > Email: kurniawangideon@gmail.com
 
 ### 作品
-[https://www.proplayerbuild.com](Pro Player Build Website)
+(https://www.proplayerbuild.com)[Pro Player Build Website]
 
 <!---
 gidgudgod/gidgudgod is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
