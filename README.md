@@ -17,10 +17,6 @@
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/gideon_ks)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:kurniawangideon@gmail.com)
 
-## 🏆 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gidgudgod&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gidgudgod&layout=compact&theme=radical)
-
 ---
 ⭐ From [gidgudgod](https://github.com/gidgudgod)
 <!---
